@@ -1,0 +1,6 @@
+git clone https://github.com/kazerosthanases-hash/mperati.git
+cd mperati
+# Add your code files here
+git add .
+git commit -m "Initial commit"
+git push origin master
