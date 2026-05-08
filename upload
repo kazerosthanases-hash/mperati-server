@@ -1,6 +1,1 @@
-cd /path/to/your/project
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/kazerosthanases-hash/mperati.git
-git push -u origin master
+
